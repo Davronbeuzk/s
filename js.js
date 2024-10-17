@@ -1,0 +1,1 @@
+document.getElementById("number").innerHTML = Math.floor(Math.random() * 100000000) + 900000000; 
